@@ -1,0 +1,21 @@
+<Solution>
+  <PropertyGroup Name="bisaichang" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <PlistImageFolder Image="plazaEffect.png" PListFile="plazaEffect.plist" Name=".plazaEffect_PList.Dir">
+          <PlistImageFile Name="biaoti-2.png" Key="biaoti-2.png" />
+          <PlistImageFile Name="guang.png" Key="guang.png" />
+          <PlistImageFile Name="jiangbei-1.png" Key="jiangbei-1.png" />
+          <PlistImageFile Name="jiangbei-2.png" Key="jiangbei-2.png" />
+          <PlistImageFile Name="jiangbei-3.png" Key="jiangbei-3.png" />
+          <PlistImageFile Name="stariconrt2.png" Key="stariconrt2.png" />
+          <PlistImageFile Name="waikuang-1.png" Key="waikuang-1.png" />
+          <PlistImageFile Name="xingxing.png" Key="xingxing.png" />
+          <PlistImageFile Name="yuan.png" Key="yuan.png" />
+        </PlistImageFolder>
+        <Project Name="Node.csd" Type="Node" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

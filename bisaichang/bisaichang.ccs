@@ -14,7 +14,7 @@
           <PlistImageFile Name="xingxing.png" Key="xingxing.png" />
           <PlistImageFile Name="yuan.png" Key="yuan.png" />
         </PlistImageFolder>
-        <Project Name="Node.csd" Type="Node" />
+        <Project Name="MatchButton.csd" Type="Node" />
       </RootFolder>
     </Group>
   </SolutionFolder>

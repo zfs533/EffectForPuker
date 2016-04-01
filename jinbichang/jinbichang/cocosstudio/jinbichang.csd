@@ -503,21 +503,21 @@
             <FileData Type="PlistSubImage" Path="yuanbao1.png" Plist="jinbichang.plist" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="guang_5" ActionTag="1261541352" Tag="10" RotationSkewX="-6.6243" RotationSkewY="-6.6243" IconVisible="False" LeftMargin="27.0000" RightMargin="-117.0000" TopMargin="-38.5000" BottomMargin="-56.5000" ctype="SpriteObjectData">
+          <AbstractNodeData Name="guang_5" ActionTag="1261541352" Tag="10" RotationSkewX="-172.8000" RotationSkewY="-172.8022" IconVisible="False" LeftMargin="27.0000" RightMargin="-117.0000" TopMargin="-38.5000" BottomMargin="-56.5000" ctype="SpriteObjectData">
             <Size X="90.0000" Y="95.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="72.0000" Y="-9.0000" />
-            <Scale ScaleX="0.6398" ScaleY="0.6398" />
+            <Scale ScaleX="0.9990" ScaleY="0.9990" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="PlistSubImage" Path="guang.png" Plist="jinbichang.plist" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="guang_6" ActionTag="-1944953920" Tag="11" RotationSkewX="23.6608" RotationSkewY="23.6604" IconVisible="False" LeftMargin="-185.1864" RightMargin="95.1864" TopMargin="-40.3289" BottomMargin="-54.6711" ctype="SpriteObjectData">
+          <AbstractNodeData Name="guang_6" ActionTag="-1944953920" Tag="11" RotationSkewX="205.6547" RotationSkewY="205.6470" IconVisible="False" LeftMargin="-183.4410" RightMargin="93.4410" TopMargin="-41.0269" BottomMargin="-53.9731" ctype="SpriteObjectData">
             <Size X="90.0000" Y="95.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="-140.1864" Y="-7.1711" />
+            <Position X="-138.4410" Y="-6.4731" />
             <Scale ScaleX="0.3344" ScaleY="0.3358" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
@@ -525,11 +525,11 @@
             <FileData Type="PlistSubImage" Path="guang.png" Plist="jinbichang.plist" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="guang_7" ActionTag="-1209600951" Tag="12" RotationSkewX="-1.7641" RotationSkewY="-1.7678" IconVisible="False" LeftMargin="-111.9998" RightMargin="21.9998" TopMargin="6.4996" BottomMargin="-101.4996" ctype="SpriteObjectData">
+          <AbstractNodeData Name="guang_7" ActionTag="-1209600951" Tag="12" RotationSkewX="-164.6432" RotationSkewY="-164.6493" IconVisible="False" LeftMargin="-110.0001" RightMargin="20.0001" TopMargin="5.1999" BottomMargin="-100.1999" ctype="SpriteObjectData">
             <Size X="90.0000" Y="95.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="-66.9998" Y="-53.9996" />
-            <Scale ScaleX="0.4068" ScaleY="0.5879" />
+            <Position X="-65.0001" Y="-52.6999" />
+            <Scale ScaleX="0.4782" ScaleY="0.6323" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
@@ -540,18 +540,18 @@
             <Size X="90.0000" Y="95.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="-48.0000" Y="57.0000" />
-            <Scale ScaleX="0.2325" ScaleY="0.2570" />
+            <Scale ScaleX="0.3070" ScaleY="0.3392" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="PlistSubImage" Path="guang.png" Plist="jinbichang.plist" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="guang_9" ActionTag="1178970345" Tag="14" RotationSkewX="39.0011" RotationSkewY="39.0017" IconVisible="False" LeftMargin="-48.0000" RightMargin="-42.0000" TopMargin="-96.5000" BottomMargin="1.5000" ctype="SpriteObjectData">
+          <AbstractNodeData Name="guang_9" ActionTag="1178970345" Tag="14" RotationSkewX="39.0008" RotationSkewY="39.0015" IconVisible="False" LeftMargin="-48.0000" RightMargin="-42.0000" TopMargin="-96.5000" BottomMargin="1.5000" ctype="SpriteObjectData">
             <Size X="90.0000" Y="95.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="-3.0000" Y="49.0000" />
-            <Scale ScaleX="0.3125" ScaleY="0.3371" />
+            <Scale ScaleX="0.4318" ScaleY="0.4658" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />

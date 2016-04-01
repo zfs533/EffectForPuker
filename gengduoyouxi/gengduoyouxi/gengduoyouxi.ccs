@@ -4,12 +4,12 @@
     <Group ctype="ResourceGroup">
       <RootFolder Name=".">
         <PlistImageFolder Image="gengduoyouxi.png" PListFile="gengduoyouxi.plist" Name=".gengduoyouxi_PList.Dir">
-          <PlistImageFile Name="J.png" Key="J.png" />
-          <PlistImageFile Name="K.png" Key="K.png" />
-          <PlistImageFile Name="Q.png" Key="Q.png" />
           <PlistImageFile Name="biaoti-3.png" Key="biaoti-3.png" />
           <PlistImageFile Name="guang.png" Key="guang.png" />
+          <PlistImageFile Name="J.png" Key="J.png" />
+          <PlistImageFile Name="K.png" Key="K.png" />
           <PlistImageFile Name="majiang.png" Key="majiang.png" />
+          <PlistImageFile Name="Q.png" Key="Q.png" />
           <PlistImageFile Name="saizi.png" Key="saizi.png" />
           <PlistImageFile Name="yuan.png" Key="yuan.png" />
         </PlistImageFolder>

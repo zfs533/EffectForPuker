@@ -1,11 +1,11 @@
 {
   "ID": "0e94c1af-deee-414d-a272-043eaacfa528",
-  "Version": "2.3.4",
+  "Version": "3.10.0.0",
   "Name": "gengduoyouxi",
   "Content": {
     "Content": {
       "Animation": {
-        "Duration": 150,
+        "Duration": 151,
         "Speed": 1.0,
         "Timelines": [
           {
@@ -1133,6 +1133,15 @@
                   "Type": 0
                 },
                 "ctype": "PointFrameData"
+              },
+              {
+                "X": -136.9997,
+                "Y": 18.0002,
+                "FrameIndex": 151,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
               }
             ],
             "ctype": "TimelineData"
@@ -1190,6 +1199,15 @@
                 "X": 0.5111,
                 "Y": 0.5111,
                 "FrameIndex": 150,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 0.2889,
+                "Y": 0.2889,
+                "FrameIndex": 151,
                 "EasingData": {
                   "Type": 0
                 },
@@ -1260,6 +1278,15 @@
                 "X": 703.9924,
                 "Y": 703.977,
                 "FrameIndex": 150,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 151,
                 "EasingData": {
                   "Type": 0
                 },
@@ -1335,7 +1362,7 @@
               "ScaleY": 0.5
             },
             "Position": {
-              "X": -61.0,
+              "X": -108.0,
               "Y": 99.0
             },
             "Scale": {
@@ -1352,8 +1379,8 @@
               "X": 0.0,
               "Y": 0.0
             },
-            "LeftMargin": -141.5,
-            "RightMargin": -19.5,
+            "LeftMargin": -188.5,
+            "RightMargin": 27.5,
             "TopMargin": -185.0,
             "BottomMargin": 13.0,
             "Tag": 24,
@@ -1362,7 +1389,6 @@
               "X": 161.0,
               "Y": 172.0
             },
-            "Alpha": 0,
             "Name": "J_7",
             "ctype": "SpriteObjectData"
           },
@@ -1381,8 +1407,8 @@
               "ScaleY": 0.5
             },
             "Position": {
-              "X": -54.8,
-              "Y": 116.6
+              "X": -67.0,
+              "Y": 116.0
             },
             "Scale": {
               "ScaleX": 1.0,
@@ -1398,17 +1424,16 @@
               "X": 0.0,
               "Y": 0.0
             },
-            "LeftMargin": -126.3,
-            "RightMargin": -16.7,
-            "TopMargin": -201.1,
-            "BottomMargin": 32.1,
+            "LeftMargin": -138.5,
+            "RightMargin": -4.5,
+            "TopMargin": -200.5,
+            "BottomMargin": 31.5,
             "Tag": 25,
             "ActionTag": -1754952890,
             "Size": {
               "X": 143.0,
               "Y": 169.0
             },
-            "Alpha": 204,
             "Name": "K_8",
             "ctype": "SpriteObjectData"
           },
@@ -1608,15 +1633,13 @@
               "ScaleY": 0.5
             },
             "Position": {
-              "X": 55.9996,
-              "Y": 38.0001
+              "X": -136.9997,
+              "Y": 18.0002
             },
             "Scale": {
-              "ScaleX": 0.7111,
-              "ScaleY": 0.7111
+              "ScaleX": 0.2889,
+              "ScaleY": 0.2889
             },
-            "RotationSkewX": 280.8275,
-            "RotationSkewY": 280.8255,
             "CColor": {},
             "IconVisible": false,
             "PrePosition": {
@@ -1627,10 +1650,10 @@
               "X": 0.0,
               "Y": 0.0
             },
-            "LeftMargin": 10.9996,
-            "RightMargin": -100.9996,
-            "TopMargin": -85.5001,
-            "BottomMargin": -9.4999,
+            "LeftMargin": -181.9997,
+            "RightMargin": 91.9997,
+            "TopMargin": -65.5002,
+            "BottomMargin": -29.4998,
             "Tag": 27,
             "ActionTag": 1563824853,
             "Size": {
@@ -1649,10 +1672,10 @@
               "B": 70
             },
             "Scale9Enable": true,
-            "Scale9OriginX": 15,
-            "Scale9OriginY": 11,
-            "Scale9Width": 16,
-            "Scale9Height": 14,
+            "Scale9OriginX": -15,
+            "Scale9OriginY": -11,
+            "Scale9Width": 30,
+            "Scale9Height": 22,
             "OutlineColor": {
               "G": 0,
               "B": 0

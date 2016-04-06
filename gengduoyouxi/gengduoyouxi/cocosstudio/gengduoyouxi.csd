@@ -2,7 +2,7 @@
   <PropertyGroup Name="gengduoyouxi" Type="Node" ID="0e94c1af-deee-414d-a272-043eaacfa528" Version="3.10.0.0" />
   <Content ctype="GameProjectContent">
     <Content>
-      <Animation Duration="150" Speed="1.0000">
+      <Animation Duration="151" Speed="1.0000">
         <Timeline ActionTag="1563098880" Property="Position">
           <PointFrame FrameIndex="0" X="0.0000" Y="79.0000">
             <EasingData Type="0" />
@@ -374,6 +374,9 @@
           <PointFrame FrameIndex="150" X="133.9995" Y="19.0001">
             <EasingData Type="0" />
           </PointFrame>
+          <PointFrame FrameIndex="151" X="-136.9997" Y="18.0002">
+            <EasingData Type="0" />
+          </PointFrame>
         </Timeline>
         <Timeline ActionTag="1563824853" Property="Scale">
           <ScaleFrame FrameIndex="0" X="0.2889" Y="0.2889">
@@ -392,6 +395,9 @@
             <EasingData Type="0" />
           </ScaleFrame>
           <ScaleFrame FrameIndex="150" X="0.5111" Y="0.5111">
+            <EasingData Type="0" />
+          </ScaleFrame>
+          <ScaleFrame FrameIndex="151" X="0.2889" Y="0.2889">
             <EasingData Type="0" />
           </ScaleFrame>
         </Timeline>
@@ -417,6 +423,9 @@
           <ScaleFrame FrameIndex="150" X="703.9924" Y="703.9770">
             <EasingData Type="0" />
           </ScaleFrame>
+          <ScaleFrame FrameIndex="151" X="0.0000" Y="0.0000">
+            <EasingData Type="0" />
+          </ScaleFrame>
         </Timeline>
       </Animation>
       <ObjectData Name="Node" Tag="17" ctype="GameNodeObjectData">
@@ -433,10 +442,10 @@
             <FileData Type="PlistSubImage" Path="yuan.png" Plist="gengduoyouxi.plist" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="J_7" ActionTag="1589600988" Alpha="0" Tag="24" IconVisible="False" LeftMargin="-141.5000" RightMargin="-19.5000" TopMargin="-185.0000" BottomMargin="13.0000" ctype="SpriteObjectData">
+          <AbstractNodeData Name="J_7" ActionTag="1589600988" Tag="24" IconVisible="False" LeftMargin="-188.5000" RightMargin="27.5000" TopMargin="-185.0000" BottomMargin="13.0000" ctype="SpriteObjectData">
             <Size X="161.0000" Y="172.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="-61.0000" Y="99.0000" />
+            <Position X="-108.0000" Y="99.0000" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
@@ -444,10 +453,10 @@
             <FileData Type="PlistSubImage" Path="J.png" Plist="gengduoyouxi.plist" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="K_8" ActionTag="-1754952890" Alpha="204" Tag="25" IconVisible="False" LeftMargin="-126.3000" RightMargin="-16.7000" TopMargin="-201.1000" BottomMargin="32.1000" ctype="SpriteObjectData">
+          <AbstractNodeData Name="K_8" ActionTag="-1754952890" Tag="25" IconVisible="False" LeftMargin="-138.5000" RightMargin="-4.5000" TopMargin="-200.5000" BottomMargin="31.5000" ctype="SpriteObjectData">
             <Size X="143.0000" Y="169.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="-54.8000" Y="116.6000" />
+            <Position X="-67.0000" Y="116.0000" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
@@ -499,18 +508,18 @@
             <FileData Type="PlistSubImage" Path="biaoti-3.png" Plist="gengduoyouxi.plist" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="guang_10" ActionTag="1563824853" Tag="27" RotationSkewX="280.8275" RotationSkewY="280.8255" IconVisible="False" LeftMargin="10.9996" RightMargin="-100.9996" TopMargin="-85.5001" BottomMargin="-9.4999" ctype="SpriteObjectData">
+          <AbstractNodeData Name="guang_10" ActionTag="1563824853" Tag="27" IconVisible="False" LeftMargin="-181.9997" RightMargin="91.9997" TopMargin="-65.5002" BottomMargin="-29.4998" ctype="SpriteObjectData">
             <Size X="90.0000" Y="95.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="55.9996" Y="38.0001" />
-            <Scale ScaleX="0.7111" ScaleY="0.7111" />
+            <Position X="-136.9997" Y="18.0002" />
+            <Scale ScaleX="0.2889" ScaleY="0.2889" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="PlistSubImage" Path="guang.png" Plist="gengduoyouxi.plist" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="moreGameBtn" ActionTag="-1677270155" Tag="11" IconVisible="False" LeftMargin="-148.1622" RightMargin="-167.8378" TopMargin="-200.7180" BottomMargin="-109.2820" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="16" Scale9Height="14" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+          <AbstractNodeData Name="moreGameBtn" ActionTag="-1677270155" Tag="11" IconVisible="False" LeftMargin="-148.1622" RightMargin="-167.8378" TopMargin="-200.7180" BottomMargin="-109.2820" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="-15" Scale9OriginY="-11" Scale9Width="30" Scale9Height="22" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
             <Size X="316.0000" Y="310.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="9.8378" Y="45.7180" />

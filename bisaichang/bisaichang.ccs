@@ -14,7 +14,12 @@
           <PlistImageFile Name="xingxing.png" Key="xingxing.png" />
           <PlistImageFile Name="yuan.png" Key="yuan.png" />
         </PlistImageFolder>
+        <Image Name="home.png" />
+        <PlistParticleFile Name="huaban_3.plist" />
+        <PlistParticleFile Name="huaduo_3.plist" />
         <Project Name="Node.csd" Type="Node" />
+        <PlistParticleFile Name="penchuxingxing.plist" />
+        <PlistParticleFile Name="xishoulizhi.plist" />
       </RootFolder>
     </Group>
   </SolutionFolder>

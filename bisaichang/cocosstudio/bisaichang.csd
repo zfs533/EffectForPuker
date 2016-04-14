@@ -777,65 +777,65 @@
                     <FileData Type="PlistSubImage" Path="jiangbei-2.png" Plist="plazaEffect.plist" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="guang_7" ActionTag="584400816" Alpha="50" Tag="93" RotationSkewX="254.8820" RotationSkewY="254.9275" IconVisible="False" LeftMargin="609.6307" RightMargin="-369.6307" TopMargin="-65.2323" BottomMargin="297.2323" ctype="SpriteObjectData">
+                  <AbstractNodeData Name="guang_7" ActionTag="584400816" Alpha="72" Tag="93" RotationSkewX="239.5625" RotationSkewY="239.6059" IconVisible="False" LeftMargin="609.5182" RightMargin="-369.5182" TopMargin="-65.4628" BottomMargin="297.4628" ctype="SpriteObjectData">
                     <Size X="102.0000" Y="98.0000" />
                     <AnchorPoint ScaleX="0.4975" ScaleY="0.4717" />
-                    <Position X="660.3757" Y="343.4589" />
-                    <Scale ScaleX="0.5800" ScaleY="0.5800" />
+                    <Position X="660.2632" Y="343.6894" />
+                    <Scale ScaleX="0.5714" ScaleY="0.5714" />
                     <CColor A="255" R="255" G="255" B="255" />
-                    <PrePosition X="1.9309" Y="1.0408" />
+                    <PrePosition X="1.9306" Y="1.0415" />
                     <PreSize X="0.2982" Y="0.2970" />
                     <FileData Type="PlistSubImage" Path="xingxing.png" Plist="plazaEffect.plist" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="guang_6" ActionTag="-973483249" Alpha="50" Tag="92" RotationSkewX="340.5501" RotationSkewY="340.5331" IconVisible="False" LeftMargin="604.8979" RightMargin="-364.8979" TopMargin="-139.1725" BottomMargin="371.1725" ctype="SpriteObjectData">
+                  <AbstractNodeData Name="guang_6" ActionTag="-973483249" Alpha="72" Tag="92" RotationSkewX="327.2879" RotationSkewY="327.2835" IconVisible="False" LeftMargin="604.8978" RightMargin="-364.8978" TopMargin="-139.1725" BottomMargin="371.1725" ctype="SpriteObjectData">
                     <Size X="102.0000" Y="98.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="655.8979" Y="420.1725" />
-                    <Scale ScaleX="0.5800" ScaleY="0.5800" />
+                    <Position X="655.8978" Y="420.1725" />
+                    <Scale ScaleX="0.5714" ScaleY="0.5714" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="1.9178" Y="1.2732" />
                     <PreSize X="0.2982" Y="0.2970" />
                     <FileData Type="PlistSubImage" Path="xingxing.png" Plist="plazaEffect.plist" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="guang_5" ActionTag="-1113738368" Alpha="50" Tag="91" RotationSkewX="-388.7740" RotationSkewY="-388.6552" IconVisible="False" LeftMargin="555.1449" RightMargin="-315.1449" TopMargin="-202.9897" BottomMargin="434.9898" ctype="SpriteObjectData">
+                  <AbstractNodeData Name="guang_5" ActionTag="-1113738368" Alpha="72" Tag="91" RotationSkewX="-371.6714" RotationSkewY="-371.5636" IconVisible="False" LeftMargin="555.1447" RightMargin="-315.1447" TopMargin="-202.9900" BottomMargin="434.9900" ctype="SpriteObjectData">
                     <Size X="102.0000" Y="98.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="606.1449" Y="483.9898" />
-                    <Scale ScaleX="0.5800" ScaleY="0.5800" />
+                    <Position X="606.1447" Y="483.9900" />
+                    <Scale ScaleX="0.5714" ScaleY="0.5714" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="1.7724" Y="1.4666" />
                     <PreSize X="0.2982" Y="0.2970" />
                     <FileData Type="PlistSubImage" Path="xingxing.png" Plist="plazaEffect.plist" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="guang_4" ActionTag="-41243223" Alpha="50" Tag="90" RotationSkewX="342.3680" RotationSkewY="342.3680" IconVisible="False" LeftMargin="355.1295" RightMargin="-115.1295" TopMargin="-200.9338" BottomMargin="432.9338" ctype="SpriteObjectData">
+                  <AbstractNodeData Name="guang_4" ActionTag="-41243223" Alpha="72" Tag="90" RotationSkewX="328.6872" RotationSkewY="328.6872" IconVisible="False" LeftMargin="355.1295" RightMargin="-115.1295" TopMargin="-200.9338" BottomMargin="432.9338" ctype="SpriteObjectData">
                     <Size X="102.0000" Y="98.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                     <Position X="406.1295" Y="481.9338" />
-                    <Scale ScaleX="0.5800" ScaleY="0.5800" />
+                    <Scale ScaleX="0.5714" ScaleY="0.5714" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="1.1875" Y="1.4604" />
                     <PreSize X="0.2982" Y="0.2970" />
                     <FileData Type="PlistSubImage" Path="xingxing.png" Plist="plazaEffect.plist" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="guang_2" ActionTag="-428062050" Alpha="50" Tag="89" RotationSkewX="351.5851" RotationSkewY="351.6198" IconVisible="False" LeftMargin="286.9998" RightMargin="-46.9998" TopMargin="-154.9999" BottomMargin="386.9999" ctype="SpriteObjectData">
+                  <AbstractNodeData Name="guang_2" ActionTag="-428062050" Alpha="72" Tag="89" RotationSkewX="334.8178" RotationSkewY="334.8488" IconVisible="False" LeftMargin="286.9998" RightMargin="-46.9998" TopMargin="-154.9998" BottomMargin="386.9998" ctype="SpriteObjectData">
                     <Size X="102.0000" Y="98.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="337.9998" Y="435.9999" />
-                    <Scale ScaleX="0.5800" ScaleY="0.5800" />
+                    <Position X="337.9998" Y="435.9998" />
+                    <Scale ScaleX="0.5714" ScaleY="0.5714" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.9883" Y="1.3212" />
                     <PreSize X="0.2982" Y="0.2970" />
                     <FileData Type="PlistSubImage" Path="xingxing.png" Plist="plazaEffect.plist" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="guang_3" ActionTag="243690163" Alpha="50" Tag="88" RotationSkewX="-301.2460" RotationSkewY="-301.2460" IconVisible="False" LeftMargin="300.2952" RightMargin="-60.2952" TopMargin="-64.3577" BottomMargin="296.3577" ctype="SpriteObjectData">
+                  <AbstractNodeData Name="guang_3" ActionTag="243690163" Alpha="72" Tag="88" RotationSkewX="-290.5300" RotationSkewY="-290.5300" IconVisible="False" LeftMargin="300.2952" RightMargin="-60.2952" TopMargin="-64.3576" BottomMargin="296.3576" ctype="SpriteObjectData">
                     <Size X="102.0000" Y="98.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="351.2952" Y="345.3577" />
+                    <Position X="351.2952" Y="345.3576" />
                     <Scale ScaleX="0.6000" ScaleY="0.6000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="1.0272" Y="1.0465" />
@@ -865,13 +865,13 @@
                     <FileData Type="PlistSubImage" Path="biaoti-2.png" Plist="plazaEffect.plist" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="guang_7" ActionTag="323672755" Tag="85" RotationSkewX="400.3594" RotationSkewY="400.3625" IconVisible="False" LeftMargin="496.9805" RightMargin="-244.9805" TopMargin="39.4329" BottomMargin="195.5671" ctype="SpriteObjectData">
+                  <AbstractNodeData Name="guang_7" ActionTag="323672755" Tag="85" RotationSkewX="372.6626" RotationSkewY="372.6616" IconVisible="False" LeftMargin="484.6443" RightMargin="-232.6443" TopMargin="38.2756" BottomMargin="196.7244" ctype="SpriteObjectData">
                     <Size X="90.0000" Y="95.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="541.9805" Y="243.0671" />
-                    <Scale ScaleX="0.4465" ScaleY="0.4465" />
+                    <Position X="529.6443" Y="244.2244" />
+                    <Scale ScaleX="0.4322" ScaleY="0.4322" />
                     <CColor A="255" R="255" G="255" B="255" />
-                    <PrePosition X="1.5847" Y="0.7366" />
+                    <PrePosition X="1.5487" Y="0.7401" />
                     <PreSize X="0.2632" Y="0.2879" />
                     <FileData Type="PlistSubImage" Path="guang.png" Plist="plazaEffect.plist" />
                     <BlendFunc Src="1" Dst="771" />

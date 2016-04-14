@@ -3,6 +3,14 @@
   <SolutionFolder>
     <Group ctype="ResourceGroup">
       <RootFolder Name=".">
+        <PlistImageFolder Image="jinbichang.png" PListFile="jinbichang.plist" Name=".jinbichang_PList.Dir">
+          <PlistImageFile Name="biaoti.png" Key="biaoti.png" />
+          <PlistImageFile Name="fudai.png" Key="fudai.png" />
+          <PlistImageFile Name="guang.png" Key="guang.png" />
+          <PlistImageFile Name="yuan.png" Key="yuan.png" />
+          <PlistImageFile Name="yuanbao1.png" Key="yuanbao1.png" />
+          <PlistImageFile Name="yuanbao2.png" Key="yuanbao2.png" />
+        </PlistImageFolder>
         <PlistImageFolder Image="plazaEffect.png" PListFile="plazaEffect.plist" Name=".plazaEffect_PList.Dir">
           <PlistImageFile Name="biaoti-2.png" Key="biaoti-2.png" />
           <PlistImageFile Name="guang.png" Key="guang.png" />
@@ -14,12 +22,8 @@
           <PlistImageFile Name="xingxing.png" Key="xingxing.png" />
           <PlistImageFile Name="yuan.png" Key="yuan.png" />
         </PlistImageFolder>
-        <Image Name="home.png" />
-        <PlistParticleFile Name="huaban_3.plist" />
-        <PlistParticleFile Name="huaduo_3.plist" />
-        <Project Name="Node.csd" Type="Node" />
-        <PlistParticleFile Name="penchuxingxing.plist" />
-        <PlistParticleFile Name="xishoulizhi.plist" />
+        <Project Name="bisaichang.csd" Type="Node" />
+        <Project Name="jinbichang.csd" Type="Node" />
       </RootFolder>
     </Group>
   </SolutionFolder>

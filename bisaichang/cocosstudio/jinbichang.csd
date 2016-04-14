@@ -470,7 +470,7 @@
             <FileData Type="PlistSubImage" Path="yuan.png" Plist="jinbichang.plist" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="yuanbao2_3" ActionTag="-1480137979" Tag="8" RotationSkewX="-27.1520" RotationSkewY="-27.1524" IconVisible="False" LeftMargin="-172.0000" RightMargin="94.0000" TopMargin="4.0000" BottomMargin="-64.0000" ctype="SpriteObjectData">
+          <AbstractNodeData Name="yuanbao2_3" ActionTag="-1480137979" Tag="8" RotationSkewX="-8.4206" RotationSkewY="-8.4213" IconVisible="False" LeftMargin="-172.0000" RightMargin="94.0000" TopMargin="4.0000" BottomMargin="-64.0000" ctype="SpriteObjectData">
             <Size X="78.0000" Y="60.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="-133.0000" Y="-34.0000" />
@@ -492,7 +492,7 @@
             <FileData Type="PlistSubImage" Path="fudai.png" Plist="jinbichang.plist" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="yuanbao1_4" ActionTag="-349917382" Tag="9" RotationSkewX="-8.2943" RotationSkewY="-8.2941" IconVisible="False" LeftMargin="-149.5000" RightMargin="36.5000" TopMargin="40.0000" BottomMargin="-124.0000" ctype="SpriteObjectData">
+          <AbstractNodeData Name="yuanbao1_4" ActionTag="-349917382" Tag="9" RotationSkewX="-12.6154" RotationSkewY="-12.6165" IconVisible="False" LeftMargin="-149.5000" RightMargin="36.5000" TopMargin="40.0000" BottomMargin="-124.0000" ctype="SpriteObjectData">
             <Size X="113.0000" Y="84.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="-93.0000" Y="-82.0000" />
@@ -503,11 +503,11 @@
             <FileData Type="PlistSubImage" Path="yuanbao1.png" Plist="jinbichang.plist" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="guang_5" ActionTag="1261541352" Tag="10" RotationSkewX="-223.2000" RotationSkewY="-223.2022" IconVisible="False" LeftMargin="27.0000" RightMargin="-117.0000" TopMargin="-38.5000" BottomMargin="-56.5000" ctype="SpriteObjectData">
+          <AbstractNodeData Name="guang_5" ActionTag="1261541352" Tag="10" RotationSkewX="-6.6243" RotationSkewY="-6.6243" IconVisible="False" LeftMargin="27.0000" RightMargin="-117.0000" TopMargin="-38.5000" BottomMargin="-56.5000" ctype="SpriteObjectData">
             <Size X="90.0000" Y="95.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="72.0000" Y="-9.0000" />
-            <Scale ScaleX="0.7541" ScaleY="0.7541" />
+            <Scale ScaleX="0.6398" ScaleY="0.6398" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
@@ -525,10 +525,10 @@
             <FileData Type="PlistSubImage" Path="guang.png" Plist="jinbichang.plist" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="guang_7" ActionTag="-1209600951" Tag="12" RotationSkewX="-1.7641" RotationSkewY="-1.7678" IconVisible="False" LeftMargin="-112.0010" RightMargin="22.0010" TopMargin="6.5002" BottomMargin="-101.5002" ctype="SpriteObjectData">
+          <AbstractNodeData Name="guang_7" ActionTag="-1209600951" Tag="12" RotationSkewX="-1.7641" RotationSkewY="-1.7678" IconVisible="False" LeftMargin="-111.9998" RightMargin="21.9998" TopMargin="6.4996" BottomMargin="-101.4996" ctype="SpriteObjectData">
             <Size X="90.0000" Y="95.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="-67.0010" Y="-54.0002" />
+            <Position X="-66.9998" Y="-53.9996" />
             <Scale ScaleX="0.4068" ScaleY="0.5879" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
@@ -591,27 +591,16 @@
             <FileData Type="PlistSubImage" Path="guang.png" Plist="jinbichang.plist" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="goldBtn" ActionTag="1434170233" Tag="36" IconVisible="False" LeftMargin="-198.0000" RightMargin="-142.0000" TopMargin="-99.9998" BottomMargin="-240.0002" TouchEnable="True" FontSize="72" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="4" BottomEage="4" Scale9OriginX="-15" Scale9OriginY="-4" Scale9Width="30" Scale9Height="8" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
-            <Size X="340.0000" Y="340.0000" />
+          <AbstractNodeData Name="goldBtn" ActionTag="1434170233" Tag="36" IconVisible="False" LeftMargin="-173.0000" RightMargin="-127.0000" TopMargin="-72.0000" BottomMargin="-248.0000" TouchEnable="True" FontSize="72" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="4" BottomEage="4" Scale9OriginX="15" Scale9OriginY="4" Scale9Width="186" Scale9Height="64" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+            <Size X="300.0000" Y="320.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="-28.0000" Y="-70.0002" />
+            <Position X="-23.0000" Y="-88.0000" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
             <TextColor A="255" R="255" G="0" B="0" />
             <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
-            <OutlineColor A="255" R="255" G="0" B="0" />
-            <ShadowColor A="255" R="110" G="110" B="110" />
-          </AbstractNodeData>
-          <AbstractNodeData Name="onlineTxt" ActionTag="915085469" Tag="15" IconVisible="False" LeftMargin="-113.0000" RightMargin="-63.0000" TopMargin="194.0000" BottomMargin="-216.0000" FontSize="22" LabelText="123456456789在线" HorizontalAlignmentType="HT_Center" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-            <Size X="176.0000" Y="22.0000" />
-            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="-25.0000" Y="-205.0000" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
-            <CColor A="255" R="0" G="0" B="0" />
-            <PrePosition />
-            <PreSize X="0.0000" Y="0.0000" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
